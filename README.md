@@ -11,7 +11,7 @@ is mobile inverted bottleneck convolution (MBConv) with squeeze and excitation o
 
 # Architecture
 
-
+![efficientnetb0](https://github.com/khajaraouf/Segmentation_EfficientNetB0_Unet/assets/70451209/2544b932-4536-4105-8132-7e28e5d5028f)
 
 # Reference Papers
 
